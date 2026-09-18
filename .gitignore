@@ -1,0 +1,24 @@
+# Jupyter Notebook checkpoints and autosaves
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Jupyter Lab virtual documents
+.virtual_documents/
+
+# IPython configuration profiles
+profile_default/
+ipython_config.py
+
+# Optional: If you convert your notebooks to other formats automatically
+# *.html
+# *.pdf
+
+# Python standard exclusions (highly recommended for Notebook environments)
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+env/
+data/
